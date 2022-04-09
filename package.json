@@ -1,7 +1,24 @@
 {
   "name": "chartwrapper",
+  "description": "To test wrapper components",
+  "author": "SagarJPawar",
+  "keywords": [
+    "react",
+    "components",
+    "ui"
+  ],
   "version": "0.1.0",
   "private": true,
+  "main": "build/static/js/chartWrapper.js",
+  "module": "build/static/js/chartWrapper.js",
+  "files": [
+    "build",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagarjpawar/ChartWrapper.git"
+  },
   "dependencies": {
     "@babel/core": "^7.16.0",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.3",
