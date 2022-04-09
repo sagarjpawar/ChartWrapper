@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/static/js/chartWrapper.js",
+    "main.css": "/static/css/main.bf3009d1.css",
+    "static/js/chartWrapper.chunk.js": "/static/js/chartWrapper.chunk.js",
+    "index.html": "/index.html",
+    "chartWrapper.js.map": "/static/js/chartWrapper.js.map",
+    "main.bf3009d1.css.map": "/static/css/main.bf3009d1.css.map",
+    "chartWrapper.chunk.js.map": "/static/js/chartWrapper.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/chartWrapper.js",
+    "static/css/main.bf3009d1.css"
+  ]
+}
